@@ -1,0 +1,43 @@
+name: Update EPDK snapshot
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 06:17 Türkiye time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epdk-snapshot
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The EPDK gateway allows about one full download per day per client: one attempt,
+      # one retry after a pause, otherwise keep yesterday's file and try again tomorrow.
+      - name: Download and convert
+        run: |
+          python3 scripts/epdk_snapshot.py --output data/epdk_stations.json \
+            || (sleep 120 && python3 scripts/epdk_snapshot.py --output data/epdk_stations.json)
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/epdk_stations.json; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/epdk_stations.json
+          git commit -m "Update EPDK snapshot $(date -u +%Y-%m-%d)"
+          git push
