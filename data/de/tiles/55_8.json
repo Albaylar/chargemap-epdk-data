@@ -1,0 +1,7 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1041400,"a":"DE*CNT*EP00528*001","m":"GP JOULE Connect GmbH","o":"GP Joule Connect GmbH","d":"Hafenstr. 2a, 25992 List auf Sylt","y":55.015888,"x":8.430511,"s":[["DC_CCS",50.0,2]]},
+{"n":1044947,"a":"","m":"AlbatrosServiceGesellschaft mbH","o":"AlbatrosServiceGesellschaft mbH","d":"Hafenstraße 37, 25992 List","y":55.0196,"x":8.43851,"s":[["AC_SCHUKO",22.0,6],["AC_TYPE2",22.0,6]]},
+{"n":1069622,"a":"","m":"","o":"Entwicklungsgesellschaft Sylt mbH","d":"Hafenstraße 2a, 25992 List","y":55.015826,"x":8.43134,"s":[["AC_TYPE2",11.0,8],["AC_TYPE2_CABLE",11.0,8],["DC_CCS",50.0,2]]},
+{"n":1137951,"a":"DE*CNT*EP00528*002","m":"GP JOULE Connect GmbH","o":"GP Joule Connect GmbH","d":"Hafenstraße 2a, 25992 List auf Sylt","y":55.015671,"x":8.430916,"s":[["AC_TYPE2",11.0,8]]},
+{"n":1156201,"a":"","m":"Wirelane GmbH","o":"Wirelane Public 1 GmbH","d":"Listlandstraße 11, 25992 List auf Sylt","y":55.014761,"x":8.427092,"s":[["AC_TYPE2",11.0,4]]}
+]}

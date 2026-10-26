@@ -1,0 +1,4 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1021360,"a":"","m":"EWE Go GmbH","o":"EWE Go GmbH","d":"Ankerstraße 1, 26757 Borkum","y":53.582404,"x":6.666287,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1163815,"a":"EWE_4259_1A","m":"EWE Go GmbH","o":"EWE Go GmbH","d":"Am Nordufer 29, 26757 Borkum","y":53.563413,"x":6.751914,"s":[["AC_TYPE2",22.0,4]]}
+]}

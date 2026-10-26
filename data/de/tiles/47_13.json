@@ -1,0 +1,16 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1042647,"a":"","m":"","o":"Energielösung GmbH","d":"Königsseer Str. 51, 83471 Berchtesgaden","y":47.62196,"x":13.001911,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1042701,"a":"","m":"","o":"Energielösung GmbH","d":"Bergwerkstraße 7, 83471 Berchtesgaden","y":47.631485,"x":13.007063,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1065361,"a":"","m":"E.ON Drive Infrastructure","o":"E.ON Drive Infrastructure GmbH","d":"Bergwerkstr. 12, 83471 Berchtesgaden","y":47.63142,"x":13.007034,"s":[["DC_CCS",150.0,4]]},
+{"n":1090775,"a":"","m":"","o":"Autohaus Brandner GmbH & Co. KG","d":"Salzburger Straße 20, 83471 Berchtesgaden","y":47.63919,"x":13.01362,"s":[["AC_TYPE2",22.0,4]]},
+{"n":1101613,"a":"","m":"","o":"Tesla Germany GmbH","d":"Bahnhofplatz 2, 83471 Berchtesgaden","y":47.626949,"x":13.000833,"s":[["DC_CCS",250.0,8]]},
+{"n":1106489,"a":"","m":"E.ON Drive GmbH","o":"E.ON Drive Germany GmbH","d":"Bergwerkstraße 12, 83471 Berchtesgarden","y":47.631352,"x":13.006991,"s":[["AC_TYPE2",11.0,1],["AC_TYPE2",22.0,1]]},
+{"n":1114408,"a":"ESB_0187 / Rathaus - Berchtesgaden","m":"Energie Südbayern GmbH","o":"Energie Südbayern GmbH","d":"Rathausplatz 81, 83471 Berchtesgaden","y":47.634651,"x":13.003964,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1114409,"a":"ESB_0186_01 / Watzmann Therme - Berchtesgaden","m":"Energie Südbayern GmbH","o":"Energie Südbayern GmbH","d":"Bergwerkstr. 54, 83471 Berchtesgaden","y":47.635058,"x":13.010215,"s":[["AC_TYPE2",22.0,8],["DC_CCS",50.0,2]]},
+{"n":1128968,"a":"ESB_0480_01 / Marktplatz - Marktschellenberg","m":"Energie Südbayern GmbH","o":"Energie Südbayern GmbH","d":"Marktplatz 2, 83487 Marktschellenberg","y":47.69541,"x":13.046105,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1135553,"a":"Contipark Parkplatz Salzbergwerk Berchtesgaden Wallbox 1","m":"","o":"Servipark Deutschland GmbH","d":"Salzburger Str. 24, 83471 Berchtesgaden","y":47.639275,"x":13.015462,"s":[["AC_TYPE2",22.0,10]]},
+{"n":1137687,"a":"ESB_0556_01 / Kugelmühlweg - Marktschellenberg","m":"Energie Südbayern GmbH","o":"Energie Südbayern GmbH","d":"Kugelmühlweg 18, 83487 Marktschellenberg","y":47.670495,"x":13.032561,"s":[["AC_TYPE2",15.0,4]]},
+{"n":1141581,"a":"An der alten Turnhalle","m":"Buchwinkler Berchtesgaden","o":"Buchwinkler GmbH&CoKG","d":"Bahnhofstr. 19, 83471 Berchtesgaden","y":47.63117,"x":13.00416,"s":[["AC_TYPE2_CABLE",11.0,1],["DC_CCS",22.0,1]]},
+{"n":1143987,"a":"ESB_0564_01 /  Bahnhofstraße - Berchtesgaden","m":"Energie Südbayern GmbH","o":"Energie Südbayern GmbH","d":"Bahnhofstr. 21, 83471 Berchtesgaden","y":47.631051,"x":13.004295,"s":[["AC_TYPE2",15.0,4]]},
+{"n":1151571,"a":"","m":"Wirelane GmbH","o":"Wirelane Public 1 GmbH","d":"Buchenhöhe 34, 83471 Berchtesgaden","y":47.630829,"x":13.065205,"s":[["AC_TYPE2",11.0,2]]}
+]}

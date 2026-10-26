@@ -1,0 +1,4 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1129410,"a":"Stadtwerke Böblingen (alles außer Technologiepark H130)","m":"amba operations","o":"amba operations GmbH","d":"Stadtgrabenstr. 20, 71032 Böblingen","y":54.32459,"x":7.36405,"s":[["AC_TYPE2",22.0,301]]},
+{"n":1158983,"a":"MoWo Sophie-Scholl-Quartier","m":"MEGA Grüne Energien","o":"MEGA Grüne Energien GmbH & Co. KG","d":"Hans-Scholl-Str. 7, 40789 Monheim am Rhein","y":54.5,"x":7.5,"s":[["AC_TYPE2",22.0,6]]}
+]}

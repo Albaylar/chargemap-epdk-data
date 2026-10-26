@@ -1,0 +1,8 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1029798,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"Wallstraße 14, 52538 Gangelt","y":50.993784,"x":5.995993,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1035883,"a":"","m":"ALDI SÜD","o":"ALDI SÜD Immobilienverwaltungs-GmbH & Co. oHG","d":"Heinrich-Josef-Otten-Straße 2, 52538 Gangelt","y":50.993901,"x":5.987101,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1047006,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"Burgstrasse 10, 52538 Gangelt","y":50.992934,"x":5.994879,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1112479,"a":"","m":"","o":"Mark Schäpers e.K.","d":"Höngener Weg 1, 52538 Selfkant","y":50.998031,"x":5.930898,"s":[["AC_TYPE2",22.0,2],["DC_CCS",50.0,2],["DC_CHADEMO",50.0,2]]},
+{"n":1125447,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"Am Freibad 10, 52538 Gangelt","y":50.986953,"x":5.997873,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1139222,"a":"","m":"","o":"TankE GmbH","d":"Boltensternstr. 131, 50735 Köln","y":50.98463,"x":5.85372,"s":[["AC_TYPE2",22.0,2]]}
+]}

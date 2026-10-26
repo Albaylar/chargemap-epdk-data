@@ -1,0 +1,19 @@
+{"v": 1, "generatedAt": "2026-10-26T10:31:57+00:00", "source": "BNetzA","stations":[
+{"n":1029702,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"An der Waldschänke 1, 52538 Selfkant","y":51.00355,"x":5.92928,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1029777,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"In der Fummer 9, 52525 Selfkant","y":51.016922,"x":5.898014,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1029804,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"Dr.-Kitschen-Platz 4, 52525 Waldfeucht","y":51.066323,"x":5.98946,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1035897,"a":"ESC-049-01","m":"ALDI SÜD","o":"ALDI SÜD Immobilienverwaltungs-GmbH & Co. oHG","d":"Raiffeisenstr. 4, 52525 Waldfeucht","y":51.059077,"x":5.99643,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1047012,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"In der Fummer 2, 52538 Selfkant","y":51.016989,"x":5.89766,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1068653,"a":"","m":"","o":"Jütten & Koolen Automobile GmbH","d":"Raiffeisenstraße 5, 52525 Waldfeucht","y":51.058601,"x":5.996673,"s":[["AC_TYPE2_CABLE",22.0,2],["DC_CCS",300.0,2]]},
+{"n":1068654,"a":"","m":"","o":"Jütten & Koolen Automobile GmbH","d":"Raiffeisenstraße 5, 52525 Waldfeucht","y":51.058716,"x":5.997012,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1068656,"a":"","m":"","o":"Jütten & Koolen Automobile GmbH","d":"Raiffeisenstraße 5, 52525 Waldfeucht","y":51.058676,"x":5.996873,"s":[["DC_CCS",400.0,2]]},
+{"n":1069438,"a":"","m":"","o":"Oliver Gellißen","d":"Zu den Benden 0, 52538 Selfkant","y":51.048333,"x":5.895952,"s":[["AC_TYPE2",11.0,1],["AC_TYPE2_CABLE",11.0,1]]},
+{"n":1076684,"a":"","m":"Alliander Netz Heinsberg","o":"Alliander Netz Heinsberg GmbH","d":"Am Dorfplatz 2, 52525 Waldfeucht","y":51.052443,"x":5.998824,"s":[["AC_TYPE2",11.0,2]]},
+{"n":1076694,"a":"","m":"Alliander Netz Heinsberg","o":"Alliander Netz Heinsberg GmbH","d":"Lambertus Str. 13, 52525 Waldfeucht","y":51.068219,"x":5.989255,"s":[["AC_TYPE2",22.0,2]]},
+{"n":1086331,"a":"","m":"","o":"Jörg Schlag","d":"Diecker Weg 2a, 52538 Selfkant","y":51.025321,"x":5.941453,"s":[["AC_TYPE2_CABLE",11.0,1]]},
+{"n":1087927,"a":"","m":"","o":"Stephan  Smeets","d":"Westerholzer Straße 3, 52538 Selfkant","y":51.021482,"x":5.933849,"s":[["AC_TYPE2",11.0,1]]},
+{"n":1113429,"a":"","m":"","o":"Ofen-Wilms GmbH","d":"Hoferstraße 30, 52538 Gangelt","y":51.01078,"x":5.96893,"s":[["AC_TYPE2",11.0,1],["AC_TYPE2",22.0,1]]},
+{"n":1129633,"a":"ESC-023","m":"ALDI SÜD","o":"ALDI SÜD Immobilienverwaltungs-GmbH & Co. oHG","d":"In der Fummer 3, 52538 Selfkant","y":51.017207,"x":5.900308,"s":[["DC_CCS",50.0,2]]},
+{"n":1159440,"a":"6803_Lidl_Waldfeucht_T65-IT-4825-002","m":"Lidl","o":"Lidl Dienstleistung GmbH & Co. KG","d":"Raiffeisenstr. 6, 52525 Waldfeucht","y":51.059064,"x":5.996012,"s":[["AC_TYPE2",11.0,1],["DC_CCS",60.0,2]]},
+{"n":1164226,"a":"","m":"NEW","o":"NEW Niederrhein Energie und Wasser GmbH","d":"Dorfstr. 55, 52525 Waldfeucht","y":51.076168,"x":5.994841,"s":[["AC_TYPE2",22.0,2]]}
+]}
