@@ -1,21 +1,21 @@
-name: Update EPDK snapshot
+name: Update snapshots
 
 on:
   schedule:
-    - cron: "17 3 * * *"   # daily, 06:17 Türkiye time
+    - cron: "17 3 * * *"   # daily, 06:17 Türkiye / 05:17 Germany (summer)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: epdk-snapshot
+  group: snapshots
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -23,21 +23,31 @@ jobs:
         with:
           python-version: "3.12"
 
-      # The EPDK gateway allows about one full download per day per client: one attempt,
-      # one retry after a pause, otherwise keep yesterday's file and try again tomorrow.
-      - name: Download and convert
+      - name: Install dependencies
+        run: pip install openpyxl==3.1.5
+
+      # Türkiye — EPDK allows about one full download per day per client: one attempt and one
+      # retry after a pause; on failure keep yesterday's file. Never fails the whole job.
+      - name: EPDK (Türkiye)
+        continue-on-error: true
         run: |
           python3 scripts/epdk_snapshot.py --output data/epdk_stations.json \
             || (sleep 120 && python3 scripts/epdk_snapshot.py --output data/epdk_stations.json)
 
+      # Germany — Bundesnetzagentur Ladesäulenregister (CC BY 4.0). Skips when the newest
+      # published file was already converted.
+      - name: BNetzA (Germany)
+        continue-on-error: true
+        run: python3 scripts/bnetza_snapshot.py
+
       - name: Commit if changed
         run: |
-          if git diff --quiet -- data/epdk_stations.json; then
+          git add -A data
+          if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/epdk_stations.json
-          git commit -m "Update EPDK snapshot $(date -u +%Y-%m-%d)"
+          git commit -m "Update snapshots $(date -u +%Y-%m-%d)"
           git push
