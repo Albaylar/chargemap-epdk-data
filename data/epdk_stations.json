@@ -1,4 +1,4 @@
-{"v": 1, "generatedAt": "2026-11-07T10:06:19+00:00", "source": "EPDK","stations":[
+{"v": 1, "generatedAt": "2026-11-09T11:29:42+00:00", "source": "EPDK","stations":[
 {"n":8,"a":"TŞOF Sivrihisar DC","m":"zes","o":"ZES DİJİTAL TİCARET ANONİM ŞİRKETİ","d":"Kurşunlu Mahallesi Ankara-eskişehir Yolu 134. Km Sivrihisar / ESKİŞEHİR","y":39.437496,"x":31.559413,"s":[["DC_CCS",180.0,4],["DC_CCS",720.0,8]]},
 {"n":9,"a":"BÜYÜKAĞA PETROL","m":"ovolt","o":"OVOLT ŞARJ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Camikebir Mahallesi Atatürk Caddesi No:56 Kaymaklı Kasabası Merkez / NEVŞEHİR","y":38.463832,"x":34.751584,"s":[["AC_TYPE2",22.0,1]]},
 {"n":12,"a":"Akbatı AVM, Esenyurt","m":"eşarj","o":"EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ","d":"Sanayi Mahallesi 1655 Sokağı No:6 Esenyurt / İSTANBUL","y":41.055676,"x":28.667032,"s":[["AC_TYPE2",22.0,3],["DC_CCS",120.0,6],["DC_CCS",50.0,1],["DC_CHADEMO",50.0,1]]},
@@ -1154,7 +1154,7 @@
 {"n":2429,"a":"Taybe Akaryakıt, Samsun","m":"eşarj","o":"EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ","d":"Engiz Mahallesi No:88 19 Mayıs / SAMSUN","y":41.487244,"x":36.090189,"s":[["DC_CCS",120.0,2]]},
 {"n":2430,"a":"ASTORŞARJ Bİ'MOLA REŞADİYE","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Ömerli Mahallesi 34974 Sokağı Çekmeköy / İSTANBUL","y":41.102416,"x":29.290999,"s":[["DC_CCS",180.0,2]]},
 {"n":2431,"a":"ASTORŞARJ Bİ'MOLA IŞIKLAR","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Pirinççi Köyü Mahallesi Eyüpsultan / İSTANBUL","y":41.195994,"x":28.825914,"s":[["DC_CCS",180.0,2]]},
-{"n":2432,"a":"ASTORŞARJ Bİ'MOLA ÇİFTALAN","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Çiftalan Köyü Mahallesi Eyüpsultan / İSTANBUL","y":41.235973,"x":28.907609,"s":[["DC_CCS",160.0,2]]},
+{"n":2432,"a":"ASTORŞARJ Bİ'MOLA ÇİFTALAN","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Çiftalan Köyü Mahallesi Eyüpsultan / İSTANBUL","y":41.235973,"x":28.907609,"s":[["DC_CCS",180.0,2]]},
 {"n":2435,"a":"ASTORŞARJ AĞAÇLI BMW SERVİS","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Erler Mahallesi 2717 Sokağı No:A /6 Etimesgut / ANKARA","y":39.900332,"x":32.68371,"s":[["DC_CCS",160.0,2]]},
 {"n":2440,"a":"VZX YAMAN PEYNİRCİLİK / EDİRNE YOLU","m":"VİZYONEKS","o":"VİZYONEKS BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ","d":"Izgar Mahallesi Köyyolu Sokağı No:1 Malkara / TEKİRDAĞ","y":40.88276,"x":26.88638,"s":[["AC_TYPE2",22.0,1]]},
 {"n":2441,"a":"VZX YAMAN PEYNİRCİLİK / İSTANBUL YOLU","m":"VİZYONEKS","o":"VİZYONEKS BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ","d":"Izgar Mahallesi Köyyolu Sokağı No:1 Malkara / TEKİRDAĞ","y":40.88125,"x":26.88627,"s":[["AC_TYPE2",22.0,1]]},
@@ -1191,7 +1191,7 @@
 {"n":2479,"a":"KABULOĞLU PETROL","m":"TORA","o":"TORA TEKNİK HİZMETLER İŞLETME ANONİM ŞİRKETİ","d":"Akköprü Mahallesi Akköprü Yalvaç / ISPARTA","y":38.307128,"x":31.157057,"s":[["AC_TYPE2",22.0,1]]},
 {"n":2481,"a":"ŞARJON ESBAŞ EGE SERBEST BÖLGE","m":"ŞARJON","o":"ŞARJON YENİLENEBİLİR ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ TİCARET ANONİM ŞİRKETİ","d":"Esbaş Serbest Bölge Mahallesi Zafer Sokağı No:No:144/1 /Kapı No:1 Kümeevleri Gaziemir / İZMİR","y":38.33485,"x":27.12436,"s":[["AC_TYPE2",22.0,1]]},
 {"n":2486,"a":"GIOev - Aydın - Acarlar","m":"GIOEV","o":"GİOEV ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Argavlı Mahallesi İzmir Söke Yolu Sokağı No:57 Kör Kuyu Söke / AYDIN","y":37.831324,"x":27.505094,"s":[["DC_CCS",300.0,2]]},
-{"n":2487,"a":"ASTORŞARJ ŞA-RA","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Ümit Mahallesi 2479 Sokağı No:2 Çankaya / ANKARA","y":39.900464,"x":32.692247,"s":[["DC_CCS",160.0,2]]},
+{"n":2487,"a":"ASTORŞARJ ŞA-RA ŞARJ İSTASYONU","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Ümit Mahallesi 2479 Sokağı No:2 Çankaya / ANKARA","y":39.900464,"x":32.692247,"s":[["DC_CCS",180.0,2]]},
 {"n":2488,"a":"ASTORŞARJ KEPEZ MALL OF ANTALYA","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Sinan Mahallesi Kepez / ANTALYA","y":36.920735,"x":30.787438,"s":[["AC_TYPE2",22.0,2],["DC_CCS",160.0,4]]},
 {"n":2490,"a":"ANADOLU OSB","m":"EPSIS","o":"FORM ELEKTRİK İNŞAAT MÜHENDİSLİK ANONİM ŞİRKETİ","d":"Malıköy Anadolu Osb Mahallesi 29 Ekim Caddesi Anadolu Osb Girişinden Sonraki Büyük Trafo Binasının Yanı. Sincan / ANKARA","y":39.79556,"x":32.39908,"s":[["AC_TYPE2",22.0,1],["DC_CCS",80.0,2]]},
 {"n":2491,"a":"VZX / BALCOON LOUNGE","m":"VİZYONEKS","o":"VİZYONEKS BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ","d":"Kısıklı Mahallesi Çamlıca Tepesi Sokağı No:2 Büyük Çamlıca Yolu Üsküdar / İSTANBUL","y":41.02871,"x":29.06656,"s":[["AC_TYPE2",22.0,2]]},
@@ -1827,7 +1827,7 @@
 {"n":3724,"a":"Shell Bafra","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Emirefendi Mahallesi Fidan Sokağı No:3 Bafra / SAMSUN","y":41.556681,"x":35.905267,"s":[["DC_CCS",180.0,2]]},
 {"n":3730,"a":"ÖZÇELİK-PELİT İŞ MERKEZİ","m":"EVC CHARGE","o":"EVCİL YATIRIM MÜHENDİSLİK MİMARLIK LİMİTED ŞİRKETİ","d":"Prof.dr. Ahmet Taner Kışlalı Mahallesi No:94 Çankaya / ANKARA","y":39.875262,"x":32.686869,"s":[["AC_TYPE2",22.0,2]]},
 {"n":3731,"a":"KEÇİÖRENGÜCÜ","m":"EVC CHARGE","o":"EVCİL YATIRIM MÜHENDİSLİK MİMARLIK LİMİTED ŞİRKETİ","d":"Adnan Menderes Mahallesi Şehit Mehmet Karakaşoğlu Sokağı No:1 Keçiören / ANKARA","y":39.999348,"x":32.879701,"s":[["AC_TYPE2",22.0,2]]},
-{"n":3733,"a":"ASTORŞARJ İSTANBUL SİLİVRİ VEGA  AVM","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Alibey Mahallesi E-5 Üzeri Sokağı Silivri / İSTANBUL","y":41.07819,"x":28.25179,"s":[["AC_TYPE2",22.0,1],["DC_CCS",160.0,2]]},
+{"n":3733,"a":"ASTORŞARJ İSTANBUL SİLİVRİ VEGA  AVM","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Alibey Mahallesi E-5 Üzeri Sokağı Silivri / İSTANBUL","y":41.07819,"x":28.25179,"s":[["AC_TYPE2",22.0,1],["DC_CCS",180.0,2]]},
 {"n":3738,"a":"LA LUNA LİFE BURSA","m":"volti","o":"VOLNET ENERJİ SİSTEMLERİ SANAYİ TİCARET ANONİM ŞİRKETİ","d":"Altınşehir Mahallesi 303. Sokağı No:2 Nilüfer / BURSA","y":40.221279,"x":28.925274,"s":[["AC_TYPE2",22.0,2]]},
 {"n":3742,"a":"YEMEN KAHVESİ MERSİN","m":"VOLTRUN","o":"VOLTRUN ENERJİ ANONİM ŞİRKETİ","d":"Limonluk Mahallesi İsmet İnönü Sokağı No:155A Yenişehir / MERSİN","y":36.790942,"x":34.624277,"s":[["AC_TYPE2",22.0,1]]},
 {"n":3743,"a":"NENESSA HOTEL","m":"VOLTRUN","o":"VOLTRUN ENERJİ ANONİM ŞİRKETİ","d":"Taşpazar Mahallesi Ebulfeyz Elçibey Caddesi No:42/A Merkez / AKSARAY","y":38.369415,"x":34.020058,"s":[["AC_TYPE2",11.0,2]]},
@@ -1904,7 +1904,7 @@
 {"n":3878,"a":"Arcona / Kayseri Tanzim İh.Mad. GERMİR","m":"AARCONA","o":"ARCONA TEKNOLOJİ ANONİM ŞİRKETİ","d":"Germir Mahallesi No:248 Melikgazi / KAYSERİ","y":38.7459,"x":35.546611,"s":[["AC_TYPE2",22.0,1]]},
 {"n":3879,"a":"Arcona / City One Hotel","m":"AARCONA","o":"ARCONA TEKNOLOJİ ANONİM ŞİRKETİ","d":"Sanayi Mahallesi 6002 Caddesi No:11 Kocasinan / KAYSERİ","y":38.724039,"x":35.47745,"s":[["AC_TYPE2",22.0,1]]},
 {"n":3880,"a":"Petrol Ofisi - Yeni İzmir Caddesi Çayırhisar","m":"e-POwer","o":"PETROL OFİSİ ANONİM ŞİRKETİ","d":"Çayırhisar Mahallesi Yeni İzmir Caddesi No:11/3 Altıeylül / BALIKESİR","y":39.608101,"x":27.902881,"s":[["AC_TYPE2",22.0,1]]},
-{"n":3881,"a":"ASTORŞARJ SULTANGAZİ VEGA AVM","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Yunus Emre Mahallesi No:81 Sultangazi / İSTANBUL","y":41.09371,"x":29.90331,"s":[["AC_TYPE2",22.0,1],["DC_CCS",160.0,2]]},
+{"n":3881,"a":"ASTORŞARJ SULTANGAZİ VEGA AVM","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Yunus Emre Mahallesi No:81 Sultangazi / İSTANBUL","y":41.09371,"x":29.90331,"s":[["AC_TYPE2",22.0,1],["DC_CCS",180.0,2]]},
 {"n":3882,"a":"ASTORŞARJ SİVAS İVAPARK AVM","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Gültepe Mahallesi Merkez / SİVAS","y":39.750545,"x":37.01502,"s":[["AC_TYPE2",22.0,1],["DC_CCS",180.0,2]]},
 {"n":3883,"a":"MİGROS ORTAKÖY MMM","m":"MİGGO","o":"MİGEN ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ HİZMETLERİ ANONİM ŞİRKETİ","d":"Ortaköy Mahallesi Dereboyu Caddesi No:2 Beşiktaş / İSTANBUL","y":41.05579,"x":29.02323,"s":[["AC_TYPE2",22.0,1],["DC_CCS",120.0,2]]},
 {"n":3884,"a":"Petrol Ofisi - Çanakkale 2 Caddesi Gökçeyazı","m":"e-POwer","o":"PETROL OFİSİ ANONİM ŞİRKETİ","d":"Gökçeyazı Mahallesi No:16 Çanakkale Köseağlar Kümeevleri İvrindi / BALIKESİR","y":39.640081,"x":27.685161,"s":[["AC_TYPE2",22.0,1]]},
@@ -13220,5 +13220,12 @@
 {"n":24225,"a":"Kilitbahir Konutları","m":"solinved","o":"SOLİNVED GÜNEŞ VE BATARYA TEKNOLOJİLERİ \r\nANONİM ŞİRKETİ","d":"Yıldırım Beyazıt Mahallesi Şehit Ömer Delibaş Sokağı No:29 Melikgazi / KAYSERİ","y":38.7236,"x":35.5352,"s":[["AC_TYPE2",22.0,2]]},
 {"n":24226,"a":"WEST BLOCKS","m":"MITHRA POD","o":"MİTHRA POD ELEKTRİK VE ELEKTRONİK OTOMASYON SİSTEMLERİ İMALAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ","d":"Alkent 2000 Mahallesi Hadımköy Yolu Caddesi No:147/2 Büyükçekmece / İSTANBUL","y":41.071841,"x":28.621614,"s":[["AC_TYPE2",22.0,2],["DC_CCS",120.0,2],["DC_CCS",180.0,2]]},
 {"n":24232,"a":"YEDİTEPE EVLERİ","m":"Tripy","o":"TRİPY MOBİLİTY TEKNOLOJİ ANONİM ŞİRKETİ","d":"Başak Mahallesi Abdulhamithan Caddesi No:9B Başakşehir / İSTANBUL","y":41.097762,"x":28.803949,"s":[["AC_TYPE2",22.0,2]]},
-{"n":24234,"a":"İzCar Wash","m":"varr TM","o":"DESA ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ","d":"Fatih Mahallesi Ege Caddesi No:43 Gaziemir / İZMİR","y":38.3096,"x":27.1716,"s":[["DC_CCS",180.0,2]]}
+{"n":24234,"a":"İzCar Wash","m":"varr TM","o":"DESA ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ","d":"Fatih Mahallesi Ege Caddesi No:43 Gaziemir / İZMİR","y":38.3096,"x":27.1716,"s":[["DC_CCS",180.0,2]]},
+{"n":24236,"a":"ASTORŞARJ BEYŞEHİR HASYIL BALATİNİ DİNLENME TESİSİ","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Çetmi Mahallesi Beyşehir / KONYA","y":37.475072,"x":31.494384,"s":[["DC_CCS",400.0,4]]},
+{"n":24237,"a":"DURU PARK KONUTLARI 2","m":"AKSA ŞARJ","o":"AKSA MÜŞTERİ ÇÖZÜMLERİ ANONİM ŞİRKETİ","d":"Güllübağlar Mahallesi Uzungöl Sokağı No:12 Pendik / İSTANBUL","y":40.898721,"x":29.270973,"s":[["DC_CCS",80.0,2]]},
+{"n":24238,"a":"İNEBOLU","m":"AOSTECHNOLOGY","o":"AYHAN TEKNOLOJİ VE OTOMASYON ÇÖZÜMLERİ ANONİM ŞİRKETİ","d":"Abdurrahmanpaşa Caddesi Hastane Yanı Sokağı İnebolu / KASTAMONU","y":41.961571,"x":33.75161,"s":[["AC_TYPE2",22.0,2],["DC_CCS",22.0,1],["DC_CCS",220.0,3]]},
+{"n":24241,"a":"Kavakpınar Opet Akaryakıt İstasyonu","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Kavakpınar Mahallesi Tersane Sokağı No:21 Pendik / İSTANBUL","y":40.868619,"x":29.280923,"s":[["DC_CCS",180.0,2]]},
+{"n":24242,"a":"Kartal Parma İş Merkezi","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Uğur Mumcu Mahallesi Akşemsettin Sokağı No:54/1 Kartal / İSTANBUL","y":40.934522,"x":29.215579,"s":[["DC_CCS",120.0,2]]},
+{"n":24243,"a":"Shell Batıkent","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Batı Sitesi Mahallesi No:113 Yenimahalle / ANKARA","y":39.956451,"x":32.70498,"s":[["DC_CCS",180.0,2]]},
+{"n":24244,"a":"Chesme Lounge Cafe","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Kuruçeşme Mahallesi Muallim Naci Caddesi Beşiktaş / İSTANBUL","y":41.058886,"x":29.03554,"s":[["DC_CCS",120.0,2]]}
 ]}
