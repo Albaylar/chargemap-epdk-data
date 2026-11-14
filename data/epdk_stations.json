@@ -1,4 +1,4 @@
-{"v": 1, "generatedAt": "2026-11-13T10:57:31+00:00", "source": "EPDK","stations":[
+{"v": 1, "generatedAt": "2026-11-14T10:24:32+00:00", "source": "EPDK","stations":[
 {"n":8,"a":"TŞOF Sivrihisar DC","m":"zes","o":"ZES DİJİTAL TİCARET ANONİM ŞİRKETİ","d":"Kurşunlu Mahallesi Ankara-eskişehir Yolu 134. Km Sivrihisar / ESKİŞEHİR","y":39.437496,"x":31.559413,"s":[["DC_CCS",180.0,4],["DC_CCS",720.0,8]]},
 {"n":9,"a":"BÜYÜKAĞA PETROL","m":"ovolt","o":"OVOLT ŞARJ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Camikebir Mahallesi Atatürk Caddesi No:56 Kaymaklı Kasabası Merkez / NEVŞEHİR","y":38.463832,"x":34.751584,"s":[["AC_TYPE2",22.0,1]]},
 {"n":12,"a":"Akbatı AVM, Esenyurt","m":"eşarj","o":"EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ","d":"Sanayi Mahallesi 1655 Sokağı No:6 Esenyurt / İSTANBUL","y":41.055676,"x":28.667032,"s":[["AC_TYPE2",22.0,3],["DC_CCS",120.0,6],["DC_CCS",50.0,1],["DC_CHADEMO",50.0,1]]},
@@ -13254,5 +13254,8 @@
 {"n":24285,"a":"My City","m":"MERCURY","o":"MERCURY ŞARJ HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ","d":"Yıldırımbeyazıt Mahallesi Irmak 2 Sokağı No:7 Çubuk / ANKARA","y":40.2274,"x":33.04,"s":[["AC_TYPE2",10.0,3],["AC_TYPE2",9.0,1]]},
 {"n":24286,"a":"ADRES ATAKENT EVLERİ  SİTESİ DC","m":"MKS-ŞARJ","o":"MAKSEM ELEKTRO ŞARJ ANONİM ŞİRKETİ","d":"Atakent Mahallesi 242 Sokağı No:6 Küçükçekmece / İSTANBUL","y":41.037404,"x":28.783959,"s":[["DC_CCS",120.0,2]]},
 {"n":24287,"a":"Sevgi Cafe","m":"varr TM","o":"DESA ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ","d":"İstasyon Mahallesi Sevgi Parkı Liman İçi İlkadım / SAMSUN","y":41.285321,"x":36.345482,"s":[["AC_TYPE2",11.0,1],["AC_TYPE2",22.0,1],["DC_CCS",120.0,2]]},
-{"n":24291,"a":"Bozok Teknopark","m":"TÜRKŞARJ","o":"ENERJİTURK ENERJİ YATIRIM ANONİM ŞİRKETİ","d":"Divanlı Mahallesi Bozok Üniversitesi Erdoğan Akdağ Kampüsü Merkez / YOZGAT","y":39.772949,"x":34.800562,"s":[["AC_TYPE2",22.0,2]]}
+{"n":24291,"a":"Bozok Teknopark","m":"TÜRKŞARJ","o":"ENERJİTURK ENERJİ YATIRIM ANONİM ŞİRKETİ","d":"Divanlı Mahallesi Bozok Üniversitesi Erdoğan Akdağ Kampüsü Merkez / YOZGAT","y":39.772949,"x":34.800562,"s":[["AC_TYPE2",22.0,2]]},
+{"n":24296,"a":"TRİPY - CAMİ YANI","m":"Tripy","o":"TRİPY MOBİLİTY TEKNOLOJİ ANONİM ŞİRKETİ","d":"Kılavuzlar Mahallesi Bucak Caddesi No:1 Merkez / KARABÜK","y":41.211685,"x":32.654924,"s":[["DC_CCS",60.0,2]]},
+{"n":24299,"a":"Zeplin İlayda Bilişim","m":"ZEPLİN CAR rental","o":"ZEPLİN TURİZM ARAÇ KİRALAMA MOBİLİTE VE ENERJİ YATIRIMLARI ANONİM ŞİRKETİ","d":"Yenişehir Mahallesi No:52 A İzmit / KOCAELİ","y":40.763132,"x":29.964338,"s":[["DC_CCS",60.0,2]]},
+{"n":24300,"a":"Zeplin Dragos Center","m":"ZEPLİN CAR rental","o":"ZEPLİN TURİZM ARAÇ KİRALAMA MOBİLİTE VE ENERJİ YATIRIMLARI ANONİM ŞİRKETİ","d":"Bağdat Caddesi Coşkunlar Sokağı No:16 Maltepe / İSTANBUL","y":40.91538,"x":29.147257,"s":[["DC_CCS",160.0,2]]}
 ]}
