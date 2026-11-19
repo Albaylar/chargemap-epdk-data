@@ -1,4 +1,4 @@
-{"v": 1, "generatedAt": "2026-11-18T11:40:21+00:00", "source": "EPDK","stations":[
+{"v": 1, "generatedAt": "2026-11-19T11:38:48+00:00", "source": "EPDK","stations":[
 {"n":8,"a":"TŞOF Sivrihisar DC","m":"zes","o":"ZES DİJİTAL TİCARET ANONİM ŞİRKETİ","d":"Kurşunlu Mahallesi Ankara-eskişehir Yolu 134. Km Sivrihisar / ESKİŞEHİR","y":39.437496,"x":31.559413,"s":[["DC_CCS",180.0,4],["DC_CCS",720.0,8]]},
 {"n":9,"a":"BÜYÜKAĞA PETROL","m":"ovolt","o":"OVOLT ŞARJ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Camikebir Mahallesi Atatürk Caddesi No:56 Kaymaklı Kasabası Merkez / NEVŞEHİR","y":38.463832,"x":34.751584,"s":[["AC_TYPE2",22.0,1]]},
 {"n":12,"a":"Akbatı AVM, Esenyurt","m":"eşarj","o":"EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ","d":"Sanayi Mahallesi 1655 Sokağı No:6 Esenyurt / İSTANBUL","y":41.055676,"x":28.667032,"s":[["AC_TYPE2",22.0,3],["DC_CCS",120.0,6],["DC_CCS",50.0,1],["DC_CHADEMO",50.0,1]]},
@@ -13283,5 +13283,10 @@
 {"n":24337,"a":"ASTORŞARJ GÖLBAŞI MHY AKARYAKIT","m":"ASTOR","o":"ASTOR ENERJİ ANONİM ŞİRKETİ","d":"Hürriyet Mahallesi No:240 Gölbaşı / ADIYAMAN","y":37.6067,"x":37.7704,"s":[["DC_CCS",120.0,2]]},
 {"n":24338,"a":"ASPLUS TUNÇ SİENA EVLERİ","m":"ASPLUS","o":"ASPLUS ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Mezopotamya Mahallesi Mahallesi 289 Sokağı No:7A/1 Kayapınar / DİYARBAKIR","y":37.94132,"x":40.17003,"s":[["AC_TYPE2",11.0,3]]},
 {"n":24339,"a":"ASPLUS CITY FLOWERS 2 SİTESİ","m":"ASPLUS","o":"ASPLUS ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Peyas Mahallesi 7. Sokağı Kayapınar / DİYARBAKIR","y":37.95637,"x":40.16469,"s":[["AC_TYPE2",22.0,2]]},
-{"n":24341,"a":"ASPLUS ALINAK KUTAY PALADYUM KONUTLARI","m":"ASPLUS","o":"ASPLUS ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Fırat Mahallesi Nazım Hikmet Caddesi No:53A/1 Kayapınar / DİYARBAKIR","y":37.93424,"x":40.13349,"s":[["AC_TYPE2",22.0,2]]}
+{"n":24341,"a":"ASPLUS ALINAK KUTAY PALADYUM KONUTLARI","m":"ASPLUS","o":"ASPLUS ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Fırat Mahallesi Nazım Hikmet Caddesi No:53A/1 Kayapınar / DİYARBAKIR","y":37.93424,"x":40.13349,"s":[["AC_TYPE2",22.0,2]]},
+{"n":24351,"a":"VADİ EVLERİ 2","m":"gotedygo","o":"TEDY ENERJİ VE TEKNOLOJİ ANONİM ŞİRKETİ","d":"Yenikent Mahallesi No:157/1 Derince / KOCAELİ","y":40.777146,"x":29.817615,"s":[["DC_CCS",120.0,2]]},
+{"n":24353,"a":"PO Sancaktepe-Sancak","m":"5 şarj","o":"BORENCO ŞARJ TEKNOLOJİ YATIRIMLARI TİCARET ANONİM ŞİRKETİ","d":"Eyüp Sultan Mahallesi Mahallesi Müminler Caddesi Caddesi No:80 Sancaktepe / İSTANBUL","y":40.985751,"x":29.20078,"s":[["DC_CCS",180.0,2]]},
+{"n":24354,"a":"Sümer Akaryakıt","m":"GIOEV","o":"GİOEV ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ","d":"Yenice Çiftlik Mahallesi Keşan Keşan / EDİRNE","y":40.875406,"x":26.563562,"s":[["DC_CCS",180.0,2]]},
+{"n":24355,"a":"AC SU DAMLASI SİTESİ","m":"MYCHARGE","o":"MANAS İPLİK SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Tunahan Mahallesi 30 Ağustos Caddesi No:6 Etimesgut / ANKARA","y":39.986724,"x":32.611947,"s":[["AC_TYPE2",22.0,6]]},
+{"n":24356,"a":"İstinye Park Evleri","m":"GezCar","o":"GEZCAR TURİZM OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ","d":"Merkez Mahallesi 52072 Sokağı No:5A Bucak Merkez Mezitli / MERSİN","y":36.748243,"x":34.52182,"s":[["AC_TYPE2",11.0,2]]}
 ]}
