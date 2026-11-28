@@ -1,4 +1,4 @@
-{"v": 1, "generatedAt": "2026-11-27T12:17:25+00:00", "source": "EPDK","stations":[
+{"v": 1, "generatedAt": "2026-11-28T11:43:52+00:00", "source": "EPDK","stations":[
 {"n":8,"a":"TŞOF Sivrihisar DC","m":"zes","o":"ZES DİJİTAL TİCARET ANONİM ŞİRKETİ","d":"Kurşunlu Mahallesi Ankara-eskişehir Yolu 134. Km Sivrihisar / ESKİŞEHİR","y":39.437496,"x":31.559413,"s":[["DC_CCS",180.0,4],["DC_CCS",720.0,8]]},
 {"n":9,"a":"BÜYÜKAĞA PETROL","m":"ovolt","o":"OVOLT ŞARJ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Camikebir Mahallesi Atatürk Caddesi No:56 Kaymaklı Kasabası Merkez / NEVŞEHİR","y":38.463832,"x":34.751584,"s":[["AC_TYPE2",22.0,1]]},
 {"n":12,"a":"Akbatı AVM, Esenyurt","m":"eşarj","o":"EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ","d":"Sanayi Mahallesi 1655 Sokağı No:6 Esenyurt / İSTANBUL","y":41.055676,"x":28.667032,"s":[["AC_TYPE2",22.0,3],["DC_CCS",120.0,6],["DC_CCS",50.0,1],["DC_CHADEMO",50.0,1]]},
@@ -7332,7 +7332,6 @@
 {"n":13918,"a":"KAYI SNOW OTEL","m":"VOLTRUN","o":"VOLTRUN ENERJİ ANONİM ŞİRKETİ","d":"İnönü Mahallesi Sarıkamış / KARS","y":40.321726,"x":42.617295,"s":[["AC_TYPE2",22.0,1]]},
 {"n":13920,"a":"Otojet - İSTOÇ K-L Blok","m":"Otojet","o":"OTOJET ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Mahmutbey Mahallesi 2450 Sokağı Bağcılar / İSTANBUL","y":41.067291,"x":28.818545,"s":[["DC_CCS",150.0,4]]},
 {"n":13921,"a":"ELİFİN YERİ","m":"VOLTRUN","o":"VOLTRUN ENERJİ ANONİM ŞİRKETİ","d":"Akoluk Mahallesi Kamışlı Küme Evler Sokağı No:291 Ortahisar / TRABZON","y":40.901214,"x":39.672024,"s":[["AC_TYPE2",22.0,1]]},
-{"n":13922,"a":"ÖNİZŞARJ YENİ VİZYON TIP MERKEZİ","m":"önizşarj","o":"ASM DEKORASYON MOBİLYA  GRANİT MERMER İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ","d":"Barış Mahallesi Suadiye Sokağı No:148/A Yenimahalle / ANKARA","y":39.97013,"x":32.79804,"s":[["AC_TYPE2",22.0,4]]},
 {"n":13924,"a":"Shell İvrindi","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Kocaeli Mahallesi No:113 Sarıçal İvrindi / BALIKESİR","y":39.6011,"x":27.525,"s":[["DC_CCS",180.0,4]]},
 {"n":13926,"a":"Shell Umurbey","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Umurbey Mahallesi Koşuyolu Sokağı No:2/1 Lapseki / ÇANAKKALE","y":40.260764,"x":26.586741,"s":[["DC_CCS",180.0,2]]},
 {"n":13927,"a":"Shell Ezine","m":"Trugo","o":"TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Gazi Mahallesi Sepetçiyeri Mevkii İzmir/çanakkale Yolu Ezine / ÇANAKKALE","y":39.828611,"x":26.325221,"s":[["DC_CCS",180.0,2]]},
@@ -13301,5 +13300,6 @@
 {"n":24426,"a":"Panora","m":"MERCURY","o":"MERCURY ŞARJ HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ","d":"Demirtaş Cumhuriyet Mahallesi 7. Caddesi Osmangazi / BURSA","y":40.247665,"x":29.083227,"s":[["DC_CCS",120.0,2]]},
 {"n":24429,"a":"Iyaş Dinar Park AVM","m":"AOSTECHNOLOGY","o":"AYHAN TEKNOLOJİ VE OTOMASYON ÇÖZÜMLERİ ANONİM ŞİRKETİ","d":"Yeni Denizli Caddesi Dinar / AFYONKARAHİSAR","y":38.056168,"x":30.145585,"s":[["DC_CCS",180.0,2]]},
 {"n":24431,"a":"AC KANARYALILAR SİTESİ","m":"MYCHARGE","o":"MANAS İPLİK SANAYİ VE TİCARET ANONİM ŞİRKETİ","d":"Tunahan Mahallesi 230. Sokağı No:4 Etimesgut / ANKARA","y":39.9869,"x":32.612005,"s":[["AC_TYPE2",22.0,4]]},
-{"n":24433,"a":"Bulvar Özlüce AVM, Nilüfer - DC","m":"Otopriz","o":"DİCLE KÖK ENERJİ YATIRIM ANONİM ŞİRKETİ","d":"29 Ekim Mahallesi No:17 Nilüfer / BURSA","y":40.222124,"x":28.913762,"s":[["DC_CCS",180.0,2]]}
+{"n":24433,"a":"Bulvar Özlüce AVM, Nilüfer - DC","m":"Otopriz","o":"DİCLE KÖK ENERJİ YATIRIM ANONİM ŞİRKETİ","d":"29 Ekim Mahallesi No:17 Nilüfer / BURSA","y":40.222124,"x":28.913762,"s":[["DC_CCS",180.0,2]]},
+{"n":24435,"a":"Gold City 1","m":"otoWATT","o":"AYDEM PLUS ENERJİ ÇÖZÜMLERİ TİCARET ANONİM ŞİRKETİ","d":"Torbalı Mahallesi 5012 Sokağı No:2/1 Torbalı / İZMİR","y":38.173143,"x":27.355872,"s":[["AC_TYPE2",22.0,2],["DC_CCS",120.0,2]]}
 ]}
